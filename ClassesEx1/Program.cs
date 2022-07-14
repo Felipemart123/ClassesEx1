@@ -14,13 +14,14 @@ namespace ClassesEx1
             myCar.Model = "Optima";
             myCar.Year = 2019;
 
-            var ford = new Car()
-            {
-                Make = "Ford",
-                Model = "Explorer",
-                Year = 2001
-            };
+
+
+            Console.WriteLine(myCar.Make);
+            Console.WriteLine(myCar.Model);
+            Console.WriteLine(myCar.Year);
+
         }
+
            
     }
 

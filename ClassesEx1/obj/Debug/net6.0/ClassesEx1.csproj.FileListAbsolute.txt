@@ -1,0 +1,15 @@
+/Users/guillermomartinez/Projects/ClassesEx1/ClassesEx1/bin/Debug/net6.0/ClassesEx1
+/Users/guillermomartinez/Projects/ClassesEx1/ClassesEx1/bin/Debug/net6.0/ClassesEx1.deps.json
+/Users/guillermomartinez/Projects/ClassesEx1/ClassesEx1/bin/Debug/net6.0/ClassesEx1.runtimeconfig.json
+/Users/guillermomartinez/Projects/ClassesEx1/ClassesEx1/bin/Debug/net6.0/ClassesEx1.dll
+/Users/guillermomartinez/Projects/ClassesEx1/ClassesEx1/bin/Debug/net6.0/ClassesEx1.pdb
+/Users/guillermomartinez/Projects/ClassesEx1/ClassesEx1/obj/Debug/net6.0/ClassesEx1.csproj.AssemblyReference.cache
+/Users/guillermomartinez/Projects/ClassesEx1/ClassesEx1/obj/Debug/net6.0/ClassesEx1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guillermomartinez/Projects/ClassesEx1/ClassesEx1/obj/Debug/net6.0/ClassesEx1.AssemblyInfoInputs.cache
+/Users/guillermomartinez/Projects/ClassesEx1/ClassesEx1/obj/Debug/net6.0/ClassesEx1.AssemblyInfo.cs
+/Users/guillermomartinez/Projects/ClassesEx1/ClassesEx1/obj/Debug/net6.0/ClassesEx1.csproj.CoreCompileInputs.cache
+/Users/guillermomartinez/Projects/ClassesEx1/ClassesEx1/obj/Debug/net6.0/ClassesEx1.dll
+/Users/guillermomartinez/Projects/ClassesEx1/ClassesEx1/obj/Debug/net6.0/refint/ClassesEx1.dll
+/Users/guillermomartinez/Projects/ClassesEx1/ClassesEx1/obj/Debug/net6.0/ClassesEx1.pdb
+/Users/guillermomartinez/Projects/ClassesEx1/ClassesEx1/obj/Debug/net6.0/ClassesEx1.genruntimeconfig.cache
+/Users/guillermomartinez/Projects/ClassesEx1/ClassesEx1/obj/Debug/net6.0/ref/ClassesEx1.dll
